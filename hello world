@@ -1,2 +1,2 @@
-10 print "hello world"
+10 print "hello world2"
 20 goto 10
